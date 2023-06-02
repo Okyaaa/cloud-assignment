@@ -80,7 +80,7 @@
             success: function (result) {
                 if (result['status'] == true) {
                     alert("Successfully Added New Doctor!");
-                    window.location.href = '/web-project/doctor';
+                    window.location.href = '/cloud-assignment/Doctor';
                 }
                 else {
                     alert(result['message']);

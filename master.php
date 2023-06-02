@@ -113,8 +113,8 @@
               </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="/web-project/doctor/create.php">Create Doctor</a></li>
-            <li><a href="/web-project/doctor">All Doctors</a></li>
+            <li><a href="/cloud-assignment/Doctor/create.php">Create Doctor</a></li>
+            <li><a href="/cloud-assignment/Doctor">All Doctors</a></li>
           </ul>
         </li>
       </ul>
